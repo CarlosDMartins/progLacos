@@ -4,7 +4,9 @@
 '''
 
 num = 5
-cont = 5
+cont = 1
 while (cont <= 5):
-    print(cont)
+    exp = cont * cont
+    print(f"Exponêncial de 5 é igual à {exp} ")
     cont = cont + 1
+
