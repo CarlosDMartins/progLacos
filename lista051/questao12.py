@@ -4,3 +4,9 @@ menor número que foram digitados, além da média entre TODOS os números digit
 de números deve parar quando o usuário digitar o número -1, e este número -1 não deve ser considerado nem
 como maior, nem como menor, e nem na contagem da média
 '''
+
+num = int(input("Informe um número:"))
+num2 = int(input("Informe outro número:"))
+num3 = int(input("Informe outro número:"))
+num4 = int(input("Informe outro número:"))
+

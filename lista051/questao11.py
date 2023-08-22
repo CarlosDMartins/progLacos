@@ -3,3 +3,18 @@
 expoente qualquer (Variável e), ou seja, de be
 . (Sem usar Math.pow();)
 '''
+
+
+b = float(input("Informe a base da potência:"))
+e = float(input("Informe o exooente da potência:"))
+
+# usuário -> b = 3, e = 4
+# no papel -> 3 * 3 * 3 * 3
+
+cont = 1
+acumulador = 1
+while (cont <= e):
+    acumulador = acumulador * b
+    cont = cont + 1
+
+print(f"{b:.0f} elevado à {e} = {acumulador}")

@@ -3,3 +3,4 @@
 formada pela sequência 1,1,2,3,5,8,13,21,34, ... etc. Ela se caracteriza pela soma de um termo posterior com seu
 anterior subsequente
 '''
+

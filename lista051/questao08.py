@@ -4,3 +4,14 @@
 mostre-o; não sendo, passe para o próximo passo.
 '''
 
+num = 1
+
+while (num <= 20):
+    div = num % 2
+    if (div == 1):
+        print(f"{num} é ímpar")
+    num = num + 1
+
+
+
+
